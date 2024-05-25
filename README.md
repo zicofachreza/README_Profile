@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zicofachreza" alt="zicofachreza" /></a> </p>
 
-- 🌱 I’m currently learning **Java, C++, HTML**
+- 🌱 I’m currently learning **Javascript, HTML, CSS, React**
 
 - 📫 How to reach me **zico.fachreza@gmail.com**
 
